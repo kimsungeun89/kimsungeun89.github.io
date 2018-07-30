@@ -10,6 +10,7 @@ permalink: /cv/
 <kbd>
   <img src="/assets/files/cv-1.png">
 </kbd>
+
 ![cv1](/assets/files/cv-1.png)
 ![cv2](/assets/files/cv-2.png)
 ![cv3](/assets/files/cv-3.png)
