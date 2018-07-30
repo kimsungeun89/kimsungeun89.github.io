@@ -1,11 +1,8 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      permalink: /about/
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: single
+title: About Me
+description: "About Me"
+author_profile: true
+permalink: /about/
 ---
 Hello World!
