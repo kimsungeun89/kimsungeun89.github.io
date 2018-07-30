@@ -18,6 +18,13 @@ comments: true
 
 ## Some Food and Fun to Roll the Mind!
 
+<figure class="third">
+    <a href="/assets/images/20180730/1.jpg"><img src="/assets/images/20180730/1.jpg"></a>
+    <a href="/assets/images/20180730/3.jpg"><img src="/assets/images/20180730/3.jpg"></a>
+    <a href="/assets/images/20180730/4.jpg"><img src="/assets/images/20180730/4.jpg"></a>
+    <figcaption> L.A. Koreatown Cuisine </figcaption>
+</figure>
+
 ![image1](/assets/images/20180730/1.jpg)
 
 ![image2](/assets/images/20180730/2.jpg)
