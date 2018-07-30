@@ -1,8 +1,8 @@
 ---
 layout: single
-title: About Me
-description: "About Me"
+title: About
+description: "About"
 author_profile: true
 permalink: /about/
 ---
-Hello World!
+Sungeun Kim
