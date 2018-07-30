@@ -22,19 +22,15 @@ comments: true
     <a href="/assets/images/20180730/1.jpg"><img src="/assets/images/20180730/1.jpg"></a>
     <a href="/assets/images/20180730/3.jpg"><img src="/assets/images/20180730/3.jpg"></a>
     <a href="/assets/images/20180730/4.jpg"><img src="/assets/images/20180730/4.jpg"></a>
-    <figcaption> L.A. Koreatown Cuisine </figcaption>
 </figure>
 
-![image1](/assets/images/20180730/1.jpg)
+<figure class="half">
+    <a href="/assets/images/20180730/2.jpg"><img src="/assets/images/20180730/2.jpg"></a>
+    <a href="/assets/images/20180730/5.jpg"><img src="/assets/images/20180730/5.jpg"></a>
+</figure>
 
-![image2](/assets/images/20180730/2.jpg)
 
-![image3](/assets/images/20180730/3.jpg)
 
-![image4](/assets/images/20180730/4.jpg)
+![image6](/assets/images/20180730/6.jpg)
 
-![image4](/assets/images/20180730/5.jpg)
-
-![image4](/assets/images/20180730/6.jpg)
-
-![image4](/assets/images/20180730/7.jpg)
+![image7](/assets/images/20180730/7.jpg)
