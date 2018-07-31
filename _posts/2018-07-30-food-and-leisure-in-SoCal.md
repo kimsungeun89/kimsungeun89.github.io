@@ -8,9 +8,9 @@ categories:
   - blog
 tags:
   - SoCal
-  - Koreanfood
-  - nightlife
-  - travelwithfriends
+  - Food
+  - Leisure
+  - Travel
 author_profile: true
 comments: true
 ---
