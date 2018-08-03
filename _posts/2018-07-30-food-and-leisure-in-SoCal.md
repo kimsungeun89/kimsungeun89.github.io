@@ -15,7 +15,7 @@ author_profile: true
 comments: true
 ---
 
-
+ 
 ## Some Food and Fun to Roll the Mind.
 Over the years, I've lived in a handful of cities around the world. Living in a city as a foreigner is no small challenge, and it's often because the culinary options are never the same for back home and abroad. Los Angeles, however, is an anomaly. If you enjoy various Korean culinary delicacies, the name [L.A.'s Koreatown](https://www.cnn.com/travel/article/koreatown-los-angeles/index.html) would make your heart skip a beat. Even for a Korean, the range of food option is baffling at times.
 
